@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/secuestro1.props" />
+</Project>
